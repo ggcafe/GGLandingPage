@@ -62,6 +62,7 @@ a:hover {
 .container > div.logo {
 	text-align: center;
 	height: 10vh;
+	max-height: 100px;
 }
 
 .container  > div.logo > img{
