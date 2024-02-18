@@ -58,6 +58,7 @@ a:hover {
 
 .container > header {
 	padding: 1.875em 1.875em 0 1.875em;
+	max-height: 150px;
 }
 
 .container  > header > img.logo{
