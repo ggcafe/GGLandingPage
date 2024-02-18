@@ -12,7 +12,7 @@
 	font-style: normal;
 }
 
-body, html { font-size: 100%; 	padding: 0; margin: 0; background-color: #000;}
+body, html { font-size: 100%; 	padding: 0; margin: 0; background-color: #7a0907;}
 
 /* Reset */
 *,
@@ -149,18 +149,18 @@ a:hover {
 }
 
 .icon-phone:before {
-	content: url('/fonts/phone.svg');
+	content: url('../fonts/phone.svg');
 	width: 75%;
 }
 
 .icon-location-dot:before {
-	content: url('/fonts/location-dot.svg');
+	content: url('../fonts/location-dot.svg');
 	width: 75%;
 	padding-top: 2px;
 }
 
 .icon-whatsapp:before {
-	content: url('/fonts/whatsapp.svg');
+	content: url('../fonts/whatsapp.svg');
 	width: 75%;
 }
 
