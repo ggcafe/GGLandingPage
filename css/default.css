@@ -59,16 +59,11 @@ a:hover {
 .container > header {
 	padding: 1.875em 1.875em 0 1.875em;
 }
-.container > div.logo {
-	text-align: center;
-	height: 10vh;
-	max-height: 100px;
-}
 
-.container  > div.logo > img{
-	text-align: center;
+.container  > header > img.logo{
+	text-align: left;
 	height: 15vh;
-	padding: 1.875em;
+	max-height: 150px;
 }
 
 .container > header h1 {
